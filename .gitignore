@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Sambungan Telegram & kredensial (JANGAN pernah di-commit)
+config.json
+*.session
+
+# Hasil generate (dibuat ulang oleh indexer.py)
+catalog.json
+katalog.html
+thumb_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
